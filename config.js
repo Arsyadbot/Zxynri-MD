@@ -125,7 +125,7 @@ global.rpg = {
       kuda: '🐎',
       kucing: '🐈' ,
       anjing: '🐕',
-      makanan pet: '🍖',
+     "makanan pet": '🍖',
       emas: '👑',
       zamrud: '💚'
     }
